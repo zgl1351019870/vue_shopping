@@ -1,6 +1,0 @@
-git常用指令
-
-git status查看哪些文件未提交
-git add .
-git commit -m '文字' 提交到本地
-git push提交到GitHub仓库
